@@ -1,0 +1,42 @@
+﻿Patient ID,Age at Diagnosis,Type of Breast Surgery,Cancer Type,Overall Survival Status,Radio Therapy,Relapse Free Status (Years),Sex,Tumor Stage
+MB-4745,50.08,Breast Conserving,Breast Cancer,Deceased,Yes,2.47,Female,2
+MB-4059,50.23,Breast Conserving,Breast Cancer,Deceased,Yes,9.11,Female,2
+MB-0099,51.58,Breast Conserving,Breast Cancer,Deceased,Yes,6.7,Female,2
+MB-5651,51.98,Breast Conserving,Breast Cancer,Deceased,Yes,1.14,Female,2
+MB-0235,52.55,Breast Conserving,Breast Cancer,Deceased,Yes,10.66,Female,2
+MB-4716,52.98,Breast Conserving,Breast Cancer,Deceased,Yes,1.86,Female,2
+MB-5426,53.69,Breast Conserving,Breast Cancer,Deceased,Yes,1.06,Female,2
+MB-2712,54.59,Breast Conserving,Breast Cancer,Deceased,Yes,8.82,Female,2
+MB-5549,54.83,Breast Conserving,Breast Cancer,Deceased,Yes,5.66,Female,2
+MB-5454,55.57,Breast Conserving,Breast Cancer,Deceased,Yes,3.38,Female,2
+MB-4733,56.27,Breast Conserving,Breast Cancer,Deceased,Yes,5.13,Female,2
+MB-5078,56.33,Breast Conserving,Breast Cancer,Deceased,Yes,4.01,Female,2
+MB-0884,56.47,Breast Conserving,Breast Cancer,Deceased,Yes,5.61,Female,2
+MB-3253,56.81,Breast Conserving,Breast Cancer,Deceased,Yes,2.93,Female,2
+MB-5347,56.89,Breast Conserving,Breast Cancer,Deceased,Yes,13.92,Female,2
+MB-2764,57.48,Breast Conserving,Breast Cancer,Deceased,Yes,17.98,Female,2
+MB-0257,57.61,Breast Conserving,Breast Cancer,Deceased,Yes,2.68,Female,2
+MB-5481,57.62,Breast Conserving,Breast Cancer,Deceased,Yes,2,Female,2
+MB-4602,58.38,Breast Conserving,Breast Cancer,Deceased,Yes,4.5,Female,2
+MB-0079,50.42,Mastectomy,Breast Cancer,Deceased,Yes,2.19,Female,2
+MB-0223,50.45,Mastectomy,Breast Cancer,Deceased,Yes,3.6,Female,2
+MB-5446,51.25,Mastectomy,Breast Cancer,Deceased,Yes,10.31,Female,2
+MB-3453,51.36,Mastectomy,Breast Cancer,Deceased,Yes,1.63,Female,2
+MB-0102,51.38,Mastectomy,Breast Cancer,Deceased,Yes,8.39,Female,2
+MB-3556,51.76,Mastectomy,Breast Cancer,Deceased,Yes,2.74,Female,2
+MB-0362,52.79,Mastectomy,Breast Cancer,Deceased,Yes,3.87,Female,2
+MB-3266,52.91,Mastectomy,Breast Cancer,Deceased,Yes,2.68,Female,2
+MB-4686,53.03,Mastectomy,Breast Cancer,Deceased,Yes,3.52,Female,2
+MB-4233,54.01,Mastectomy,Breast Cancer,Deceased,Yes,1.39,Female,2
+MB-0417,54.22,Mastectomy,Breast Cancer,Deceased,Yes,0.52,Female,2
+MB-4276,55.07,Mastectomy,Breast Cancer,Deceased,Yes,3,Female,2
+MB-3057,55.3,Mastectomy,Breast Cancer,Deceased,Yes,2.26,Female,2
+MB-3470,56.4,Mastectomy,Breast Cancer,Deceased,Yes,3.33,Female,2
+MB-0378,57.15,Mastectomy,Breast Cancer,Deceased,Yes,8,Female,2
+MB-2796,57.94,Mastectomy,Breast Cancer,Deceased,Yes,1.52,Female,2
+MB-2842,58.48,Mastectomy,Breast Cancer,Deceased,Yes,1.58,Female,2
+MB-0532,59.07,Mastectomy,Breast Cancer,Deceased,Yes,5.35,Female,2
+MB-0874,59.22,Mastectomy,Breast Cancer,Deceased,Yes,1.14,Female,2
+MB-0448,59.45,Mastectomy,Breast Cancer,Deceased,Yes,2.35,Female,2
+MB-4929,59.49,Mastectomy,Breast Cancer,Deceased,Yes,1.04,Female,2
+MB-4381,59.75,Mastectomy,Breast Cancer,Deceased,Yes,3.328,Female,2
